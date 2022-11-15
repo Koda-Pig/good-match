@@ -1,6 +1,6 @@
 import './style.scss'
 import GoodMatch from './good-match'
-import HandleCSV from './handle-csv'
+import HandleCSV from './handle_csv'
 
 document.querySelector('#app').innerHTML = `
   <div class="container">
